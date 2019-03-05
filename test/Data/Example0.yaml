@@ -1,0 +1,16 @@
+# These are the siSessions to use as input
+- siSession:
+    siId: 1
+    period: 64
+    pduSize: 120
+    rep: 4
+- siSession:
+    siId: 2
+    period: 64
+    pduSize: 200
+    rep: 16
+- siSession:
+    siId: 3
+    period: 24
+    pduSize: 100
+    rep: 32

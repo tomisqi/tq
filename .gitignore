@@ -1,13 +1,16 @@
 build/*
+Debug/*
 */Debug/*
 */Release/*
 */x64/*
 *.o
 *.obj
 *.exe
+*~
 
 ## Visual Studio cruft
 .vs/*
+*/.vs/*
 */ipch/*
 *.opensdf
 *.log
